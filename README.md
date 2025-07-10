@@ -1,4 +1,4 @@
-# Service and Protocol – Página Web Corporativa
+# Service and Protocol | Relaciones públicas y eventos.
 
 Este repositorio contiene el desarrollo de la página web oficial para **Service and Protocol**, una empresa dedicada a ofrecer servicios de imagen, relaciones públicas, organización de eventos, protocolo y promociones publicitarias.
 
