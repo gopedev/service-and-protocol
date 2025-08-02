@@ -6,10 +6,15 @@ Este repositorio contiene el desarrollo de la página web oficial para **Service
 
 > [[https://www.serviceandprotocol.com]](https://serviceandprotocol.com/)
 
-<img width="727" height="568" alt="Captura de pantalla 2025-07-10 174258" src="https://github.com/user-attachments/assets/864b1ff7-78d6-4a45-9cd5-8b0dcd6ce81c" />
-<img width="1308" height="523" alt="Captura de pantalla 2025-07-10 174246" src="https://github.com/user-attachments/assets/f864f6ce-7a64-4010-ba17-af9399fa95b2" />
-<img width="1866" height="925" alt="Captura de pantalla 2025-07-10 174237" src="https://github.com/user-attachments/assets/1c73175b-a4e0-4dc2-bc9b-74fd88c7682c" />
-<img width="1877" height="933" alt="Captura de pantalla 2025-07-10 174228" src="https://github.com/user-attachments/assets/ec97e4f6-99ac-4d26-8f86-c14906f275c6" />
+<img width="375" height="515" alt="Captura de pantalla 2025-07-29 192438" src="https://github.com/user-attachments/assets/7bc51372-f37a-43bb-9fd1-6e5c11a2136d" />
+<img width="382" height="305" alt="Captura de pantalla 2025-07-29 192432" src="https://github.com/user-attachments/assets/b43bb602-2599-4b8e-aa1e-8e814c67cd7b" />
+<img width="383" height="817" alt="Captura de pantalla 2025-07-29 192425" src="https://github.com/user-attachments/assets/172934ec-4711-4e8e-8fcd-e59aa3d48774" />
+<img width="387" height="744" alt="Captura de pantalla 2025-07-29 192414" src="https://github.com/user-attachments/assets/e29ed602-a28d-4f80-9aea-bd08f5a76244" />
+<img width="2480" height="946" alt="Captura de pantalla 2025-07-29 192402" src="https://github.com/user-attachments/assets/4eaf8b29-d396-48be-bef7-7d328840f8e2" />
+<img width="2438" height="890" alt="Captura de pantalla 2025-07-29 192355" src="https://github.com/user-attachments/assets/e35e7c45-c812-49aa-8ab9-cd55c456816d" />
+<img width="2527" height="847" alt="Captura de pantalla 2025-07-29 192346" src="https://github.com/user-attachments/assets/4478b2a8-555d-4122-9492-4f22cbf0d3b7" />
+
+
 
 ---
 
